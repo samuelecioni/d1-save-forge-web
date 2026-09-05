@@ -1,0 +1,19 @@
+{
+  "name": "D1 Save Forge",
+  "short_name": "D1 Forge",
+  "description": "Diablo 1 save editor powered by the real DevilutionX engine compiled to WASM.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0a08",
+  "theme_color": "#0b0a08",
+  "icons": [
+    {
+      "src": "icon-d1.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

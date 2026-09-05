@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- D1 Save Forge install icon (P-D7, ratified 2026-09-02): the one
+       graphics exception of the project (philosophy §4) — a text lettermark
+       in the tool palette, hairline-framed like a panel. Text IS the
+       interface; the OS dock just needs something to show. -->
+  <rect width="512" height="512" fill="#0b0a08"/>
+  <rect x="8" y="8" width="496" height="496" fill="none" stroke="#2c2417" stroke-width="8"/>
+  <text x="256" y="256" text-anchor="middle" dominant-baseline="central"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="300" font-weight="700" fill="#c9a227">D1</text>
+</svg>
